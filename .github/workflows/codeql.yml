@@ -1,7 +1,7 @@
 
 name: "CodeQL"
 queries:
-  - uses: security-and-quality
+  uses: security-and-quality
 on:
   push:
     branches: [ "main" ]
